@@ -1,1 +1,1 @@
-# Aplikasi-Absensi-Kepegawaian
+Aplikasi Absensi Kepegawaian ini digunakan oleh guru dan staff di sekolah dalam hal masuk sekoiah, keluar sekolah, izin, sakit, dan tidak hadir tanpa izin. Aplikasi ini menggunakan bahasa pemrograman Java dan Kotlin.
